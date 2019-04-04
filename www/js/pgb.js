@@ -20,3 +20,10 @@ function deviceInfo() {
 	navigator.notification.alert(info);
 	
 }
+
+function myInfo() {
+	
+	info = 'Hi, I\'m Denis. I\m a student and' + '\n' +
+			'**************' + '\n' +
+			'I\'m 22 years old'
+}
