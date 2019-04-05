@@ -25,5 +25,6 @@ function myInfo() {
 	
 	info = 'Hi, I\'m Denis. I\m a student and' + '\n' +
 			'**************' + '\n' +
-			'I\'m 22 years old'
+			'I\'m 22 years old';
+	navigator.notification.alert(info);		
 }
